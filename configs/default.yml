@@ -1,0 +1,7 @@
+lowercase: true
+strip_html: true
+remove_urls: true
+remove_stopwords: true
+lemmatize: true
+min_token_length: 2
+keep_numbers: false
